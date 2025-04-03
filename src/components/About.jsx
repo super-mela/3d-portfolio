@@ -42,11 +42,14 @@ const About = () => {
       <motion.p variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with expriance in TypeScript and
-        Javacript, and experties in frameworks like React, Node. js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solution that solve real-world
-        problems. Let's work together to bring your idea to life!
+       I am a results-driven Full-Stack Developer with a passion for building scalable, 
+       secure, and user-friendly applications. With expertise in modern web technologies 
+       like React, NextJS, React Native, Node.js, Django, Docker, MondoDB, Firebase, mySql, 
+       SQL and cloud platforms, I specialize in turning complex 
+       ideas into efficient digital solutions. My experience spans e-commerce, educational 
+       platforms, Intelligence system, enterprise applications, and cybersecurity, ensuring a holistic approach 
+       to software development. Committed to innovation and excellence, I thrive in dynamic
+       environments where technology meets real-world impact.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -21,10 +21,16 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import afosha from "./company/afosha.png";
+import cyberforge from './company/cyberforge.png'
+import DaDU from './company/DaDU.png'
+import habesha from './company/habesha.png'
+import insa from './company/INSA.png'
+import kilole from './company/kilole.jpeg'
+import laba from './company/laba.jpg'
+import osc from './company/osc.png'
+import sn from './company/sn.png'
+import tripRide from './company/TripRide.png'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,11 +58,10 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
+  afosha,
+  cyberforge,
+  DaDU,habesha,insa,kilole,laba,osc,sn,tripRide
 };

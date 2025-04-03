@@ -17,9 +17,10 @@ const Contact = () => {
   })
   const [loading, setLoading] = useState(false)
 
-  const handleChage = (e) => { }
+  const handleChage = (e) => { 
   const { name, value } = e.target
   setForm({ ...form, [name]: value })
+  }
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -113,4 +114,4 @@ const Contact = () => {
   )
 }
 
-export default SectionWrapper(Contact, "constact")
+export default SectionWrapper(Contact, "contact")
