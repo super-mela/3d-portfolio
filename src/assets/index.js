@@ -33,8 +33,21 @@ import sn from './company/sn.png'
 import tripRide from './company/TripRide.png'
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import afooshaProject from './projects/afoshaa.jpg'
+import ClubProject from './projects/Club.png'
+import GreslernProject from './projects/Greslern.png'
+import habeshaGebeyaProject from './projects/habeshagebeya.jpg'
+import journalProject from './projects/journal.png'
+import labaproject from './projects/laba.png'
+import procProject from './projects/proc.jpg'
+import snoneafricaProject from './projects/sn_oneafrica.png'
+import CraftsProjexct from './projects/crafts.png'
+import louqProject from './projects/louq.jpg'
+import tripProject from './projects/trip.png'
+
+import hunde from './hunde.jpeg'
+import mubarek from './Mubarek.png'
+import sewasew from './sewasew.jpeg'
 
 export {
   logo,
@@ -59,9 +72,10 @@ export {
   typescript,
   threejs,
   carrent,
-  jobit,
-  tripguide,
   afosha,
   cyberforge,
-  DaDU,habesha,insa,kilole,laba,osc,sn,tripRide
+  DaDU,habesha,insa,kilole,laba,osc,sn,tripRide,
+  afooshaProject, ClubProject, GreslernProject, habeshaGebeyaProject, journalProject, labaproject, procProject, snoneafricaProject,CraftsProjexct
+, louqProject, tripProject
+, hunde, mubarek, sewasew
 };
